@@ -20,4 +20,5 @@
 ### Links:
 
 - [JavaScript Паттерны. Шаблоны проектирования (YouTube) ](https://www.youtube.com/watch?v=YJVj4XNASDk)
+- [Как UML диаграммы реализуются в коде (YouTube)](https://www.youtube.com/watch?v=0K_sAryDQUY)
 - [Design Patterns](https://refactoring.guru/ru/design-patterns)
